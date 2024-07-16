@@ -1,4 +1,4 @@
-//Tic Tac Toe Game in C++ //Coded by Mayank Chaudhary
+//code of Tic Tac Toe Game in C++ //Coded by Mayank Chaudhary
 
 #include <iostream>    //Importing the inbuild libraries in CPP
 using namespace std;
